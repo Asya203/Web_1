@@ -46,9 +46,15 @@ ul {
 
 .header__inner {
   display: flex;
-  align-items: center;
-  margin-left: 150px
-  padding: 20px 0 20px;
+    align-items: center;
+    margin-left: 150px padding: 20px 0 20px;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    border: 2px solid#9A1BCC;
+    border-radius: 30px;
 }
 
 .logo__img {
